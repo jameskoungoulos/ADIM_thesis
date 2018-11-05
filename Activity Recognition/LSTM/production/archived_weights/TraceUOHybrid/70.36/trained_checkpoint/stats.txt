@@ -1,0 +1,2 @@
+iter: 3710, train loss: 1.3689217567443848, train accuracy: 0.9399999976158142, train F1-score: 0.9410317460317459, test loss: 2.0405075550079346, test accuracy: 0.6601994037628174, test F1-score: 0.6571159036886339
+saving epoch with test accuracy: 0.7035839396389113

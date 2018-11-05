@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:\\Users\\james\\Documents\\GitHub\\ADIM\\Activity Recognition\\HAR-stacked-residual-bidir-LSTMs-master\\trained_checkpoint\\trained_model"
+all_model_checkpoint_paths: "C:\\Users\\james\\Documents\\GitHub\\ADIM\\Activity Recognition\\HAR-stacked-residual-bidir-LSTMs-master\\trained_checkpoint\\trained_model"
